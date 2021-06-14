@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/nugehood/anugerah.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<img src="https://media-exp3.licdn.com/dms/image/C5635AQF3Li1N5EqY0Q/profile-framedphoto-shrink_200_200/0/1618318319578?e=1623736800&v=beta&t=O3xxVW0K9pFZrDL1qn-UlSFdRezRe6dsZyfsyh15-N8">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
